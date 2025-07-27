@@ -75,7 +75,7 @@ function displayItemsOnHomePage() {
             <div class="rating">
                 ${item.rating.stars}⭐| ${item.rating.count}
             </div>
-            <div class="comapny-name">${item.company_name}</div>
+            <div class="comapny-name">${item.company}</div>
             <div class="item-name">${item.item_name}</div>
             <div class="price">
                 <span class="current-price">Rs ${item.current_price}</span>
